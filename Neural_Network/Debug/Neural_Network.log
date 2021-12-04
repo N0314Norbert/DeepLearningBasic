@@ -1,0 +1,33 @@
+﻿  Neural_Network.cpp
+  class any is only available with C++17 or later.
+d:\prog\neural_network\neural_network\neural_network.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\prog\neural_network\neural_network\neural_network.cpp(49): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+d:\prog\neural_network\neural_network\neural_network.cpp(72): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(74): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(96): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(98): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(134): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(136): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(156): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(158): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(161): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(214): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(216): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(230): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(232): warning C4018: '<': signed/unsigned mismatch
+d:\prog\neural_network\neural_network\neural_network.cpp(341): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+d:\prog\neural_network\neural_network\neural_network.cpp(342): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+d:\prog\neural_network\neural_network\neural_network.cpp(349): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Neural_Network.vcxproj -> D:\prog\Neural_Network\Debug\Neural_Network.exe
