@@ -76,6 +76,7 @@ public:
 				value[i][j] += value[i][j];
 			}
 		}
+		//testing
 	}
 	void add(float value)
 	{
@@ -194,6 +195,8 @@ public:
 		this->inputs = _inputs;
 		this->hidden = _hidden;
 		this->outputs = _outputs;
+
+		//testing
 
 		
 	}
